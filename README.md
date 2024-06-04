@@ -1,8 +1,6 @@
 # Explode Animation Jetpack Compose
 
 # output
-<video src="https://github.com/mshailendra316/ExplodeAnimationJetpackCompose/assets/100068050/3c032ad0-513b-46f1-b0cc-8a6702f6829c" width="324" height="324">
-
-
+<img src="https://github.com/mshailendra316/ExplodeAnimationJetpackCompose/assets/100068050/445ea717-a6db-43b8-9a9a-00ed00945e39" width="250" height="450">
 
 
